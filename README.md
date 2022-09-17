@@ -14,7 +14,7 @@ This App Utilizes Already Trained Models To Predict if One Has the Named Disease
 * [Parkinsons](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Parkinson's_Disease_Detection.ipynb)
 
 ## Installation
-> First one should clone this repository `https://github.com/MutegiMk/MultipleDiseasesPrediction`
+> First one should clone this repository `https://github.com/MutegiMk/MultipleDiseasesPrediction.git`
 > Open your command prompt(cmd) and create a virtual environment, uses this command `conda create -n <your envirinment name> python=3.9`
 
 > Activate the environment and install the following
